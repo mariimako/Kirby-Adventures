@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=flyenemy
+comment0.text=\n\ Write\ a\ description\ of\ class\ flyenemy\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=flyenemy()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ bomb()
+comment4.params=
+comment4.target=void\ move()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=swordenemies
+comment0.text=\n\ Write\ a\ description\ of\ class\ swordenemies\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ swordenemies\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\ This\ can\ be\ swallowed\ and\ pressed\ s\ to\ become\ sword\ kirby\n
+comment2.params=
+comment2.target=void\ attack()
+comment3.params=
+comment3.target=void\ walk()
+comment4.params=
+comment4.target=void\ swing()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=boss
+comment0.text=\n\ Write\ a\ description\ of\ class\ boss\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=boss()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shootBullet()
+comment4.params=
+comment4.target=void\ showlives()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=start\ end
+comment6.target=int\ getRandomNum(int,\ int)
+comment7.params=
+comment7.target=void\ spawnstuff()
+numComments=8
