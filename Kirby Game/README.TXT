@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Kirby Adventures
+PURPOSE OF PROJECT: Consolidate Java OOP through a simple, 2D action game.
+VERSION or DATE: 
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Marius Shepherd
+USER INSTRUCTIONS: The game can be instead played on the greenfoot website. Keep in mind some aspects of the game are finicky. Because it is a porject to consolidate OOP, visuals were not finalized (some attempts on animation were made). 
