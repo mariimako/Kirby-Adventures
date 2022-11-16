@@ -18,8 +18,8 @@ public class kirby extends kirbies
     public List enemies;
     public static int xPos;
     public int ySpeed=0;
-    public GreenfootImage stateofKirby =new GreenfootImage("standkirby.png");
-    public GreenfootImage kirbyswallowed=new GreenfootImage("swallowed.png");
+    public GreenfootImage stateofKirby = new GreenfootImage("standkirby.png");
+    public GreenfootImage kirbyswallowed = new GreenfootImage("swallowed.png");
 
     public void act() 
     {
